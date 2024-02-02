@@ -1,0 +1,12 @@
+O conteúdo apresentado neste minicurso, realizado em outubro de 2023, foi fundamentado nos valiosos materiais dos doutores Adriana Paganho, 
+Evandro Cunha e Thiago Castro Ferreira, da Universidade Federal de Minas Gerais, bem como nas contribuições do doutor Felipe Ribas Serras, 
+da Universidade de São Paulo. 
+O curso explorou os princípios e avanços recentes no campo do Processamento de Linguagem Natural, proporcionando aos participantes uma compreensão
+abrangente e atualizada dessa fascinante área. Agradecemos aos renomados especialistas pela generosa colaboração, que enriqueceu significativamente
+a experiência de aprendizado.
+
+
+Dito isso, Todos os créditos e bibliografias foram explicitadas nos documentos.
+
+Atenciosamente,
+Gabriela Marculino - graduanda em Ciência da Computação pela Universidade Estadual do Mato Grosso do Sul (UEMS).
